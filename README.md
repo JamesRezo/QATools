@@ -19,6 +19,7 @@ This one provides a collection of very known tools from PHP 5.4 to PHP 7.0 :
 [![Latest Unstable Version](https://poser.pugx.org/jamesrezo/qatools/v/unstable)](https://packagist.org/packages/jamesrezo/qatools)
 [![License](https://poser.pugx.org/jamesrezo/qatools/license)](https://packagist.org/packages/jamesrezo/qatools)
 [![composer.lock](https://poser.pugx.org/jamesrezo/qatools/composerlock)](https://packagist.org/packages/jamesrezo/qatools)
+[![Dependency Status](https://www.versioneye.com/user/projects/57e6452e79806f002f4ab81c/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57e6452e79806f002f4ab81c)
 
 ## Installation & Usage
 
